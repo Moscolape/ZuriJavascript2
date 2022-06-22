@@ -1,3 +1,3 @@
 # Zuri second task on Javascript
 
-# https://github.io/moscolape/ZuriJavascript2/
+# https://moscolape.github.io/ZuriJavascript2/
